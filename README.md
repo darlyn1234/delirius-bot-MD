@@ -1,7 +1,7 @@
-<h1 align='center'>Bienvenido al repositorio de @delirius_bot-MD:</h1>
+<h1 align='center'>Bienvenido al repositorio de @delirius_bot-MD</h1>
 
 <div align="center">
-<img src = "https://i.pinimg.com/564x/15/d1/92/15d1925a6ab9bf012fc1b6e201250b9f.jpg" alt="Darlyn" width="300" />
+<img src = "https://i.postimg.cc/15sXXRmZ/xdd.jpg" alt="Darlyn" width="300" />
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=darlyn1234&color=blue&label=Views" />
  </p>
@@ -17,7 +17,7 @@
 
 WhatsApp Bot Multi Device
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xzeera-id/delirius-bot-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darlyn1234/delirius-bot-MD)
 
 # Heroku Buildpack
 
